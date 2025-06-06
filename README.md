@@ -7,9 +7,9 @@ To analyze BlinkIT’s grocery sales and product performance using Power BI, pro
 ---
 
 ## 📊 Dataset
-**Source**: BlinkIT Grocery Data.xlsx
-**Size**: 8,523 records, 12 fields
-**Attributes**: Item Type, Fat Content, Outlet Info, Sales, Ratings, Visibility, etc.
+- **Source**: <a href="https://github.com/Antaramore29/BlinkIt-Sales-Dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx">BlinkIT Grocery Data.xlsx</a> 
+- **Size**: 8,523 records, 12 fields
+- **Attributes**: Item Type, Fat Content, Outlet Info, Sales, Ratings, Visibility, etc.
 
 ---
 
