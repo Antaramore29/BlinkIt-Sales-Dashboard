@@ -63,10 +63,9 @@ To analyze BlinkIT’s grocery sales and product performance using Power BI, pro
 ---
 
 ## 📁 File Structure
-bash
-Copy
-Edit
-│
+
+```bash
 ├── BlinkIT Grocery Data.xlsx     # Dataset
 ├── Dasboard-image.png            # Final dashboard snapshot
 ├── README.md                     # Project documentation
+
