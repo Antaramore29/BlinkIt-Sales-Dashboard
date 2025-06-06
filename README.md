@@ -52,6 +52,7 @@ Clear filters and dynamic data updates via slicers and interactivity
 <a href="[https://github.com/Antaramore29/Orders_Report_Dashboard_Looker/blob/main/Dasboard-image.png](https://github.com/Antaramore29/BlinkIt-Sales-Dashboard/blob/main/Dashboard-screenshot.PNG)">View Dashboard (Placeholder link)</a>  
 
 🖼️ Dashboard Preview
+
 ![Dashboard-screenshot](https://github.com/user-attachments/assets/058dc032-b4f4-4a15-a9f1-f77e9591460a)
 
 🎯 Learning Outcomes
