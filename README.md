@@ -43,7 +43,8 @@ To analyze BlinkIT’s grocery sales and product performance using Power BI, pro
 - Filters: Outlet Type, Size, Location, Item Type, Fat Content
 - Metric Selector: Toggle between Total Sales, Average Sales, Number of Items, and Ratings
 - Clear filters and dynamic data updates via slicers and interactivity
-<a href="[https://github.com/Antaramore29/Orders_Report_Dashboard_Looker/blob/main/Dasboard-image.png](https://github.com/Antaramore29/BlinkIt-Sales-Dashboard/blob/main/Dashboard-screenshot.PNG)">View Dashboard (Placeholder link)</a>  
+
+- <a href="https://github.com/Antaramore29/BlinkIt-Sales-Dashboard/blob/main/Dashboard-screenshot.PNG">View Dashboard (Placeholder link)</a>  
 
 ---
 
